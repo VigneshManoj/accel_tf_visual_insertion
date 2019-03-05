@@ -1,0 +1,6 @@
+  <launch>
+    <!-- Test Node-->
+      <node pkg="accel_tf_visual_insertion" type="accel_tf_visual_insertion"
+          name="accel_vector_visual_insertion" output="screen" />
+  
+  </launch>
